@@ -1,7 +1,6 @@
 # Simple Udemy Design Layout
 
-This is a small and fun web development project I learned doing in my free time on designing the Udemy homepage
-Hello fellow Githubers! I have been learning the basics of Web Development and this is what I have come up with so far! 
+Hello fellow Githubers! I have been learning the basics of Web Development and this is what I have come up with so far! This is a small but fun project I learned in my free time!
 
 
 

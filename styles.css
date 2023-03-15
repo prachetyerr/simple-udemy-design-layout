@@ -1,84 +1,33 @@
-body{
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: yellow;
+.main{
+    background-image: url("https://img-c.udemycdn.com/notices/web_banner/slide_1_image_udlite/7869fd17-9599-4a5e-9b03-4748a3dae016.jpg");
+    height: 400px;
+    width:100%;
+    padding: 30px;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top:20px;
+}
+.box{
+    background-color: white;
+    padding: 20px;
+    margin-left: 30px;
+    box-shadow: 0px 3px 10px grey;
+}
+.min{
+    width:200px;
+    height:350px;
 }
 
+.thi img
+{
+    width: 400px;
+    height: 400px;
+}
+.hello{
+    list-style-type: none;
 
-
-.header{
+}
+.sat{
     display: flex;
-    justify-content:flex-end;
-    padding:0% 5%;
-    vertical-align: top;
-}
-
-.title{
-    text-align: left;
-    width:70%;
-
-    color: navy;
-
-}
-
-.options{
-    display: flex;
-    width:35%;
-    justify-content: space-between;
-    color: turquoise;
-}
-
-.city{
-    background-color: turquoise;
-    color: white;
-    display: flex;
-    flex-direction: column;
-    height: auto;
-    align-items: center;
-}
-
-.city h1{
-    margin: 0%;
-}
-.city h3{
-    font-weight: 100;
-    margin-bottom: 2rem;
-}
-
-.city img{
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
-    padding:30px;
-}
-
-.contents{
-    display: flex;
-    padding:2%;
-}
-
-.welcome{
-    padding:10px;
-    width:30%;
-}
-
-.food{
-    padding: 10px;
-    width:40%;
-}
-
-.location{
-    padding:10px;
-    width:30%;
-}
-
-.food img{
-    width:70%;
-    display: block;
-    margin: auto;
-}
-
-@media screen and (min-width:400px){
-    body{
-        background-color: white;
-    }
+    gap:20px;
 }

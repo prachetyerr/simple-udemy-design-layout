@@ -1,6 +1,6 @@
 # Simple Udemy Design Layout
 
-Hello fellow Githubers! I have been learning the basics of Web Development and this is what I have come up with so far! This is a small but fun project I learned in my free time!
+Hello fellow Githubers! I have been learning the basics of Web Development and this is what I have come up with so far!
 
 
 
